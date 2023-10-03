@@ -8,7 +8,7 @@ const introdata = {
     title: "Nadeem Unwin",
     animated: {
         first: "Junior Full Stack Developer",
-        second: "Frontend and Backdend Development",
+        second: "Frontend and Backend Development",
         // third: "I develop mobile apps",
     },
     description: "Highly motivated Junior Software Developer with a music tech and education background. Creative, analytical, and adaptable. Ready to excel in a dynamic team.",
