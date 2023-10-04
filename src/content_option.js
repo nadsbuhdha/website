@@ -1,7 +1,7 @@
 const logotext = "NU";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Nadeem Unwin",
+    description: "Full Stack Developer",
 };
 
 const introdata = {
