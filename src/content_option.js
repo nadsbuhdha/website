@@ -11,7 +11,7 @@ const introdata = {
         second: "Frontend and Backend Development",
         // third: "I develop mobile apps",
     },
-    description: "Highly motivated Junior Software Developer with a music tech and education background. Creative, analytical, and adaptable. Ready to excel in a dynamic team.",
+    description: "Highly motivated Junior Software Developer with a music tech and education background. Creative, analytical, and adaptable.",
     your_img_url: "https://i.ibb.co/dkxKJyQ/DSC-4846.jpg",
 };
 
